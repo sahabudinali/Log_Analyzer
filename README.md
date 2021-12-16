@@ -1,9 +1,5 @@
 # Log_Analyzer
 
-We would like to inform you that your Compensation letter has been released and is available on “MY HCL”. You can follow below mentioned path to access your Compensation letter.
-
-    
-
 ## Summary of task
 Our custom-build server logs different events to a file named logfile.txt. Every event has **2** entries in
 the file - one entry when the event was started and another when the event was finished. The entries
